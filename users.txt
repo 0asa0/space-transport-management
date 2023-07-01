@@ -1,0 +1,8 @@
+asa,123,C,asa,fasa,Male,12
+asaasa,123,M,asa,dsa,Male,12
+asaq,123,M,akif,selim,Male,13
+a,a,M,asa,asa,Male,12
+aa,aaa,M,asda,asdasd,Male,12
+q,q,C,akif,selilm,Male,16
+e,e,C,merhaba,selam,Male,49
+özlem,özlem,M,özlem,yer,Female,25
