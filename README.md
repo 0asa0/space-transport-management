@@ -5,7 +5,8 @@ a space transport management game for oop
 
 ![image](https://github.com/0asa0/space-transport-management/assets/134441532/b10705f6-9a19-42eb-b045-84773f2f6b0f)
 
-![image](https://github.com/0asa0/space-transport-management/assets/134441532/813879e8-57f7-42cc-b3b7-e8fb770fe905)
+![Ekran görüntüsü 2023-09-18 135300](https://github.com/0asa0/space-transport-management/assets/134441532/48c2a092-1463-45e1-8354-bfe1883be4bc)
+
 
 ![image](https://github.com/0asa0/space-transport-management/assets/134441532/089a3f7c-13a9-4851-a895-c765365c64de)
 
